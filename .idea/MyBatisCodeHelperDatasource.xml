@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MyBatisCodeHelperDatasource">
+    <option name="projectProfile">
+      <ProjectProfile>
+        <option name="addSerializeUid" value="true" />
+        <option name="generateService" value="true" />
+        <option name="generateServiceInterface" value="true" />
+        <option name="javaMapperPackage" value="com.xiong.dao" />
+        <option name="javaMapperPath" value="$PROJECT_DIR$/dao/src/main/java" />
+        <option name="javaModelPackage" value="com.xiong.domain" />
+        <option name="javaModelPath" value="$PROJECT_DIR$/dao/src/main/java" />
+        <option name="lastDatabaseCrudChooseModuleName" value="dao" />
+        <option name="lombokDataAnnotation" value="true" />
+        <option name="moduleNameToPackageAndPathMap">
+          <map>
+            <entry key="dao">
+              <value>
+                <UserPackageAndPathInfoByModule>
+                  <option name="javaMapperPackage" value="com.xiong.dao" />
+                  <option name="javaMapperPath" value="$PROJECT_DIR$/dao/src/main/java" />
+                  <option name="javaModelPacakge" value="com.xiong.domain" />
+                  <option name="javaModelPath" value="$PROJECT_DIR$/dao/src/main/java" />
+                  <option name="javaServiceInterfacePackage" value="com.xiong.service" />
+                  <option name="javaServiceInterfacePath" value="C:\Users\xiong\IdeaProjects\xiong_ssm\service\src\main\java" />
+                  <option name="javaServicePackage" value="com.xiong.service.impl" />
+                  <option name="javaServicePath" value="C:\Users\xiong\IdeaProjects\xiong_ssm\service\src\main\java" />
+                  <option name="xmlPackage" value="com.xiong.dao.mapperxml" />
+                  <option name="xmlPath" value="$PROJECT_DIR$/dao/src/main/resources" />
+                </UserPackageAndPathInfoByModule>
+              </value>
+            </entry>
+            <entry key="utils">
+              <value>
+                <UserPackageAndPathInfoByModule>
+                  <option name="javaMapperPackage" value="com.xiong.dao" />
+                  <option name="javaMapperPath" value="$PROJECT_DIR$/utils/src/main/java" />
+                  <option name="javaModelPacakge" value="com.xiong.domain" />
+                  <option name="javaModelPath" value="$PROJECT_DIR$/utils/src/main/java" />
+                  <option name="javaServiceInterfacePackage" value="com.xiong.service" />
+                  <option name="javaServiceInterfacePath" value="$PROJECT_DIR$/utils/src/main/java" />
+                  <option name="javaServicePackage" value="com.xiong.service.impl" />
+                  <option name="javaServicePath" value="$PROJECT_DIR$/utils/src/main/java" />
+                  <option name="xmlPackage" value="com.xiong.dao.mapperxml" />
+                  <option name="xmlPath" value="$PROJECT_DIR$/utils/src/main/resources" />
+                </UserPackageAndPathInfoByModule>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="tableGenerateConfigs">
+          <map>
+            <entry key="SSM:U_USER">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="" />
+                  <option name="javaModelName" value="User" />
+                  <option name="moduleName" value="dao" />
+                  <option name="sequenceColumn" value="" />
+                  <option name="sequenceId" value="" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="xmlMapperPackage" value="com.xiong.dao.mapperxml" />
+        <option name="xmlMapperPath" value="$PROJECT_DIR$/dao/src/main/resources" />
+      </ProjectProfile>
+    </option>
+  </component>
+</project>

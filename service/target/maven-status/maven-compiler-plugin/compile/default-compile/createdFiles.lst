@@ -1,0 +1,6 @@
+com\xiong\service\OrdersService.class
+com\xiong\service\ProductService.class
+com\xiong\service\impl\UserServiceImpl.class
+com\xiong\service\UserService.class
+com\xiong\service\impl\OrdersServiceImpl.class
+com\xiong\service\impl\ProductServiceImpl.class

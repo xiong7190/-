@@ -1,0 +1,5 @@
+com\xiong\domain\Member.class
+com\xiong\domain\Product.class
+com\xiong\domain\User.class
+com\xiong\domain\Orders.class
+com\xiong\domain\Traveller.class
